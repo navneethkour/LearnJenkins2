@@ -30,7 +30,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 @ManagedService(path = "/chat")
-public class ChatService {
+public class ChatService 
 
 	private final Logger logger = LoggerFactory.getLogger(ChatService.class);
 
