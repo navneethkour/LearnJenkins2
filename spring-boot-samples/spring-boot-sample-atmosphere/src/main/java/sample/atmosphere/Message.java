@@ -22,7 +22,7 @@ public class Message {
 
 	private String message="456"; //hello
 
-	private String author;
+	private String author="a"; 
 
 	private long time = new Date().getTime();
 
